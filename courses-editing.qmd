@@ -28,7 +28,7 @@ Where appropriate, use stock videos/photos on Descript to highlight a concept.
 
 You can zoom into sections of the screen on Descript. For example, in a video showing the pieces of RStudio, it may make sense to zoom into each one as I discuss it. Make Zooms quicker — around 1 second. Use Zooms sparingly as it takes a lot of time! 
 
-Where appropriate, use callout boxes, arrows, and text to draw the learner's attention to a specific area of the screen (for example, when the instructor says "you can see here..."). Use color code ff7400 consistently when adding these attention grabbers.
+Where appropriate, use callout boxes, arrows, lines and text to draw the learner's attention to a specific area of the screen (for example, when the instructor says "you can see here..."). Use color code ff7400 consistently when adding these attention grabbers.
 
 Annotations can be added as appropriate. For example, if the instructor mentions a link in the video, we can add an annotation to say "link is below" or something similar.
 
